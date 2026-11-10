@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn==1.6.1
+pymongo
+matplotlib
+seaborn
+plotly
+nltk
+jupyter
+fastapi
+uvicorn
+python-dotenv
+joblib==1.5.3
